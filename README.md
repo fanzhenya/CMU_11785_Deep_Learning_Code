@@ -1,4 +1,3 @@
-## CMU 11-785 18Spring in-course projects
 
 ### Challenge 1: Frame Level Classification of Speech with MLPs
 
